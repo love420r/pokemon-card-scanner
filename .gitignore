@@ -1,0 +1,9 @@
+venv/
+ritagli/
+ritagli2/
+ritagli3/
+ritagli_dritti/
+__pycache__/
+*.pyc
+debug_*.jpg
+vedi_*.jpg

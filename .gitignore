@@ -7,3 +7,15 @@ __pycache__/
 *.pyc
 debug_*.jpg
 vedi_*.jpg
+hash_db.sqlite
+*.sqlite
+*.db
+prezzi_cache.json
+celle*/
+griglia*/
+bench_celle/
+bench_ref_cache.json
+strat_*.py
+dbg_*/
+orb_cache/
+*.jpg
